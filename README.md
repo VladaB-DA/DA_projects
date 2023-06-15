@@ -10,8 +10,8 @@ MY_PROJECTS
 1. Unit Economics Calculator for Online school.
 
 <p>Tasks:
-<p>1.
-<p>2.
+<p>1. Configure the calculator to account for adjustments to the marketing plan
+<p>2. Recalculate teacher recruitment plan
 <p>What I did:
 <p>1.
 <p>2.
