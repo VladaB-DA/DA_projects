@@ -10,13 +10,13 @@ MY_PROJECTS
 1. Unit Economics Calculator for Online school.
 
 <p>Tasks:
-1.
-2.
+<p>1.
+<p>2.
 <p>What I did:
-1.
-2.
+<p>1.
+<p>2.
 
-Link: 
+<p>Link: 
 
 
 My contacts:
