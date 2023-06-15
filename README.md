@@ -1,7 +1,9 @@
 # DATA_ANALYST_PORTFOLIO
 Hello, I'm Vlada!
-I'm a data analyst. And here you can see some of my work projects.
+I'm a data analyst. 
 I work with Excel, SQL and Python.
+Here you can see some of my work projects.
+
 
 MY_PROJECTS
 
