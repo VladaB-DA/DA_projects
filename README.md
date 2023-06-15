@@ -12,7 +12,7 @@ MY_PROJECTS
 <p>Tasks:
 1.
 2.
-What I did:
+<p>What I did:
 1.
 2.
 
